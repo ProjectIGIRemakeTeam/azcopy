@@ -2,6 +2,7 @@
 
 This tool allows users to upload files to Azure Storage from a Windows environment using the `azcopy.exe` command-line tool.
 
+![AzCopy Tool](https://github.com/ProjectIGIRemakeTeam/azcopy/blob/main/azcopy.png)
 
 
 ## Features
