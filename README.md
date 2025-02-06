@@ -10,6 +10,9 @@ This tool allows users to upload files to Azure Storage from a Windows environme
 - **Enter SAS Token URL**: Enter a Shared Access Signature (SAS) token URL with the appropriate read/write permissions.
 - **Upload**: Upload files/folders to Azure Storage via `azcopy.exe`.
 
+## RELEASE v1.0
+https://github.com/ProjectIGIRemakeTeam/azcopy/releases/tag/azcopy
+
 ## Requirements
 - **azcopy.exe**: The tool requires `azcopy.exe`, which is included in the provided package.  
   - If you don't have it, you can download it from the [Microsoft Azure website](https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10).
