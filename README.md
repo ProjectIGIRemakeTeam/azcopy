@@ -17,7 +17,7 @@ https://github.com/ProjectIGIRemakeTeam/azcopy/releases/tag/azcopy
 ## Requirements
 - **azcopy.exe**: The tool requires `azcopy.exe`, which is included in the provided package.  
   - If you don't have it, you can download it from the [Microsoft Azure website](https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10).
-- **azcopy.exe**: The tool requires `disk2vhd.exe`, which is included in the provided package.  
+- **disk2vhd.exe**: The tool requires `disk2vhd.exe`, which is included in the provided package.  
   - If you don't have it, you can download it from the [Microsoft Azure website](https://learn.microsoft.com/en-us/sysinternals/downloads/disk2vhd).
 - **Windows Operating System**
 
