@@ -1,4 +1,4 @@
-# Azure File Upload UI Tool
+# AZCOPY-Upload a folder and files within to Microsoft Azure easily
 
 This tool allows users to upload files to Azure Storage from a Windows environment using the `azcopy.exe` command-line tool.
 
