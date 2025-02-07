@@ -9,6 +9,7 @@ This tool allows users to upload files to Azure Storage from a Windows environme
 - **Drag and Drop / Open Folder**: Allows users to easily select a folder.
 - **Enter SAS Token URL**: Enter a Shared Access Signature (SAS) token URL with the appropriate read/write permissions.
 - **Upload**: Upload files/folders to Azure Storage via `azcopy.exe`.
+- **Clone Windows**: Create a snapshot of your Windows as .vhd or .vhdx via `disk2vhd.exe`.
 
 ## RELEASE v1.0
 https://github.com/ProjectIGIRemakeTeam/azcopy/releases/tag/azcopy
@@ -30,6 +31,10 @@ https://github.com/ProjectIGIRemakeTeam/azcopy/releases/tag/azcopy
 
 3. **Click Upload**  
    - Once you have selected the folder and entered the SAS Token URL, click the "Upload" button to start the upload process.
+
+4. **Clone Windows**  
+   - Once you created the .vhd or .vhdx format, just repeat the steps above to upload snapshot.
+
 
 ## How it Works
 
