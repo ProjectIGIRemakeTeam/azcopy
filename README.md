@@ -12,7 +12,7 @@ This tool allows users to upload files to Azure Storage from a Windows environme
 - **Clone Windows**: Create a snapshot of your Windows as .vhd or .vhdx via `disk2vhd.exe`.
 
 ## RELEASE v1.0
-https://github.com/ProjectIGIRemakeTeam/azcopy/releases/tag/azcopy
+[https://github.com/ProjectIGIRemakeTeam/azcopy/releases/tag/azcopy](https://github.com/ProjectIGIRemakeTeam/azcopy-windows/releases/tag/azcopy)
 
 ## Requirements
 - **azcopy.exe**: The tool requires `azcopy.exe`, which is included in the provided package.  
